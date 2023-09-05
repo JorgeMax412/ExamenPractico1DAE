@@ -1,0 +1,15 @@
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\bin\Debug\net7.0\Examen practico #1 DAE2.exe
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\bin\Debug\net7.0\Examen practico #1 DAE2.deps.json
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\bin\Debug\net7.0\Examen practico #1 DAE2.runtimeconfig.json
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\bin\Debug\net7.0\Examen practico #1 DAE2.dll
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\bin\Debug\net7.0\Examen practico #1 DAE2.pdb
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\obj\Debug\net7.0\Examen practico #1 DAE2.csproj.AssemblyReference.cache
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\obj\Debug\net7.0\Examen practico #1 DAE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\obj\Debug\net7.0\Examen practico #1 DAE2.AssemblyInfoInputs.cache
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\obj\Debug\net7.0\Examen practico #1 DAE2.AssemblyInfo.cs
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\obj\Debug\net7.0\Examen practico #1 DAE2.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\obj\Debug\net7.0\Examen practico #1 DAE2.dll
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\obj\Debug\net7.0\refint\Examen practico #1 DAE2.dll
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\obj\Debug\net7.0\Examen practico #1 DAE2.pdb
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\obj\Debug\net7.0\Examen practico #1 DAE2.genruntimeconfig.cache
+C:\Users\Jorge\OneDrive\Escritorio\Tareas\ITCA\Primer año\Ciclo II\DAE\Practica 2\Examen practico #1 DAE2\obj\Debug\net7.0\ref\Examen practico #1 DAE2.dll
